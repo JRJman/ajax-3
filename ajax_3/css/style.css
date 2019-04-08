@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  background-color: #808080;
+}
+
+#txtHint {
+  background-color: #ffffff;
+}
+
+#question {
+  width: 20em;
+  height: 2em;
+}
